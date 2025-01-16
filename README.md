@@ -68,4 +68,8 @@
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/Rohithkonuru/DAA_HA/tree/master/0179-largest-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0201-bitwise-and-of-numbers-range](https://github.com/Rohithkonuru/DAA_HA/tree/master/0201-bitwise-and-of-numbers-range) |
 <!---LeetCode Topics End-->
