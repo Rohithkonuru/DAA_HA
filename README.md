@@ -26,4 +26,12 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rohithkonuru/DAA_HA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Array
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Rohithkonuru/DAA_HA/tree/master/0051-n-queens) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Rohithkonuru/DAA_HA/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
