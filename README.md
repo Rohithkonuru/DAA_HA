@@ -34,4 +34,12 @@
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Rohithkonuru/DAA_HA/tree/master/0051-n-queens) |
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Rohithkonuru/DAA_HA/tree/master/0069-sqrtx) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Rohithkonuru/DAA_HA/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
