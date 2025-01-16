@@ -6,6 +6,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Rohithkonuru/DAA_HA/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rohithkonuru/DAA_HA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0179-largest-number](https://github.com/Rohithkonuru/DAA_HA/tree/master/0179-largest-number) |
 ## Stack
 |  |
 | ------- |
@@ -33,6 +34,7 @@
 | ------- |
 | [0051-n-queens](https://github.com/Rohithkonuru/DAA_HA/tree/master/0051-n-queens) |
 | [0162-find-peak-element](https://github.com/Rohithkonuru/DAA_HA/tree/master/0162-find-peak-element) |
+| [0179-largest-number](https://github.com/Rohithkonuru/DAA_HA/tree/master/0179-largest-number) |
 ## Backtracking
 |  |
 | ------- |
@@ -58,4 +60,12 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Rohithkonuru/DAA_HA/tree/master/0094-binary-tree-inorder-traversal) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/Rohithkonuru/DAA_HA/tree/master/0179-largest-number) |
+## Sorting
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/Rohithkonuru/DAA_HA/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
